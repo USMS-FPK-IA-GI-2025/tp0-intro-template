@@ -1,5 +1,13 @@
 # TP0 — Introduction à Python pour la Data Science
 
+# 🧪 TP0 — Introduction à Python pour la Data Science
+
+[![Ouvrir dans Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USMS-FPK-IA-GI-2025/tp0-intro-template/blob/main/starter/TP0_Intro_Python_Data_Science.ipynb)
+
+Ce TP d’introduction vous permet de découvrir les bases de Python appliqué à la Data Science.  
+➡️ Cliquez sur le badge ci-dessus pour ouvrir le notebook directement dans **Google Colab**.
+
+
 **Organisation : USMS-FPK-IA-GI-2025**  
 **Module : Python pour les Sciences de Données**  
 **Type : TP individuel**
